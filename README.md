@@ -80,7 +80,7 @@ O projeto utiliza a [PokéAPI](https://pokeapi.co/) como fonte de dados e implem
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/LucaDevel0per/poke-api.git
-cd poked-api
+cd poke-api
 ```
 
 2. **Acesse o diretório do backend**
