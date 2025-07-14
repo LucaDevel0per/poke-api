@@ -202,7 +202,6 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 **LucaDevel0per**
 
 - 🌐 GitHub: [@LucaDevel0per](https://github.com/LucaDevel0per)
-- 📧 Email: [lucadevel0per@exemplo.com](mailto:lucadevel0per@exemplo.com)
 
 Feito com ❤️ e muito ☕
 
